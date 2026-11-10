@@ -1,0 +1,16 @@
+{
+  "name": "kpapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KP Astrology Android app (Cordova)",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-purchase": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-local-notification": {}
+    }
+  }
+}
